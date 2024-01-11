@@ -55,3 +55,6 @@ To maximize the benefits of this Neovim configuration, here are some usage guide
 - Code Navigation: Utilize LSP support for intelligent code navigation and completion.
 - Autocomplete: Leverage autocomplete functionality for faster coding tasks.
 - Lazy.nvim : The plugin manager is Lazy.nvim.
+
+## Thank You
+[nobbmaestro](https://github.com/nobbmaestro/nvim-andromeda) for andromeda theme
