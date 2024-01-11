@@ -1,0 +1,20 @@
+This is the file describing the shortcuts
+**** <leader> is space ******
+
+ctrl+n --> open/toogle filesystem
+ctrl+w --> toogle switch between filesystem and editor
+<leader>gf --> autoformatting the code
+<leader>fg --> live grep the files/text
+ctrl+p --> find the files
+<leader>d --> for defination
+<leader>r --> gives the refernces
+<leaser>ca --> code action (defines and shows the problems, which can be modified)
+
+
+
+
+Basic operation keys:
+y --> to copy
+p --> to paste
+u --> to go back (ctrl+z)
+d --> cut
