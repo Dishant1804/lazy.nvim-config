@@ -57,4 +57,5 @@ To maximize the benefits of this Neovim configuration, here are some usage guide
 - Lazy.nvim : The plugin manager is Lazy.nvim.
 
 ## Thank You
-[nobbmaestro](https://github.com/nobbmaestro/nvim-andromeda) for andromeda theme
+[nobbmaestro](https://github.com/nobbmaestro/nvim-andromeda) for beautiful andromeda theme.
+[Chris Power](https://github.com/cpow) for getting me started with the nvim config.
